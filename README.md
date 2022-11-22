@@ -1,21 +1,21 @@
-#Sommaire
+# Sommaire
 
-##Introduction
-##Analyse
-#1.Qui a créé cet indicateur ?  Quelles catégories sont utilisées le construire ? À quelles fins est-il utilisé ?
+## Introduction
+## Analyse
+# 1.Qui a créé cet indicateur ?  Quelles catégories sont utilisées le construire ? À quelles fins est-il utilisé ?
 a)Constitution (histoire, construction et gestionnaires): un indicateur délivré par l’Etat et géré par ATOUT France
 b)Nomenclature (fonctionnement) : un classement aux critères nombreux, une attribution des étoiles guidée par un système de pondération avantageux
 c)Connaissances produites à partir de cet indicateur
-#2.Quels sont les usages de cette base ? Comment est interprétée cette base ? 
+# 2.Quels sont les usages de cette base ? Comment est interprétée cette base ? 
 a)Comment les acteurs interprètent-ils l’indicateur des étoiles ? Quelles réalités ces données sont-elles censées représenter? 
 b)Comment les acteurs l’ interprètent? (interview clients)
-#3. Quelles sont les limites et les critiques rencontrées par cet indicateur ?
+# 3. Quelles sont les limites et les critiques rencontrées par cet indicateur ?
 a)L’indicateur des étoiles est aujourd’hui critiqué, bien qu’il demeure répandu dans le paysage de l’offre hôtelière française
 b) Concurrence à ce classement: les outils informationnels à l’ère du numérique
-#4. De quels états de la société l’indicateur des étoiles des hôtels est-il l’illustration?
+# 4. De quels états de la société l’indicateur des étoiles des hôtels est-il l’illustration?
 a)Une société du chiffre
 b)Un indicateur qui a dû s'adapter aux exigences de nos sociétés (la réforme du classement)
-##Conclusion
+## Conclusion
 
 ## Introduction
 
