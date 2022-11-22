@@ -46,10 +46,14 @@ Les hôtels sont évalués toutes les cinq années par des organismes de contrô
 
 La classification fonctionne différemment selon le nombre d’étoiles demandé par l’établissement hôtelier. Si l’établissement fait la demande pour un classement de 1 à 3 étoiles, une visite sera organisée par une organisation accréditée afin de procéder à l’évaluation de l’hôtel. Si le classement demandé est supérieur à 3 étoiles, une visite mystère par l’organisation accréditée permettra de procéder à l’évaluation. 
 
-Les visites de notations fonctionnent de manière quantitative plus que qualitative: la note finale est obtenue par la collecte d’un grand nombre de données, plutôt que par l'appréciation d’une expérience avec des employés, ou des clients de l’hôtel. L’évaluation consiste en effet d’une grille de critères, communiquée par avance aux hôtels candidats. Il existe différents types de critères. 
-les critères obligatoires non compensatoires (10 critères représentant un total de 44 points) : Ces critères sont obligatoires pour obtenir toute classification. 
-les critères obligatoires avec possibilité de compensation: ces derniers doivent être compensés par le triple des points en critères optionnels (si un critère obligatoire de 4 points n’est pas respecté, il faudra obtenir 12 points optionnels pour le compenser)
-les critères optionnels/ “à la carte”: ces critères servent à compenser les critères obligatoires non remplis. Une partie de ces points doivent être obtenus selon la classification demandée (un hôtel 5 étoiles devra obtenir 40% des points des critères optionnels, sans compter ceux qui servent à compenser les critères obligatoires)
+Les visites de notations fonctionnent de manière quantitative plus que qualitative: la note finale est obtenue par la collecte d’un grand nombre de données, plutôt que par l'appréciation d’une expérience avec des employés, ou des clients de l’hôtel. L’évaluation consiste en effet d’une grille de critères, communiquée par avance aux hôtels candidats. Il existe différents types de critères: 
+
+- les critères obligatoires non compensatoires (10 critères représentant un total de 44 points) : Ces critères sont obligatoires pour obtenir toute classification.
+
+- les critères obligatoires avec possibilité de compensation: ces derniers doivent être compensés par le triple des points en critères optionnels (si un critère obligatoire de 4 points n’est pas respecté, il faudra obtenir 12 points optionnels pour le compenser)
+
+- les critères optionnels/ “à la carte”: ces critères servent à compenser les critères obligatoires non remplis. Une partie de ces points doivent être obtenus selon la classification demandée (un hôtel 5 étoiles devra obtenir 40% des points des critères optionnels, sans compter ceux qui servent à compenser les critères obligatoires)
+
 Le statut obligatoire ou optionnel varie selon la classification demandée. Un critère pourrait être obligatoire pour un hôtel 5 étoiles et simplement optionnel pour un hôtel deux étoiles.
 Ces trois types de critères nous donnent des informations sur l’attribution des points et la note finale obtenue, toutefois ils peuvent s’entrecroiser avec d’autres aspects concernant la nature de l’évaluation du critère. 
 Un critère peut également être siglé ‘VM’ pour visite mystère, et doit être évalué lors de la visite mystère. 
