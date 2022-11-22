@@ -27,7 +27,7 @@ Dans un premier temps, après avoir étudié l’indicateur des étoiles des hé
 
 Nous avons mené cinq entretiens dans le cadre de cette enquête collective, auprès de deux client.e.s d’hôtels (une cliente occasionnelle et un client régulier) et de trois directeurs.trices d’établissements touristiques dont une directrice d’un  hôtel Holliday Inn (4 étoiles), une directrice de deux hôtels 5 étoiles sur la côté Atlantique et un directeur d’un hôtel de charme (établissement non classé). La retranscription des entretiens se trouve en Annexe. 
 
-# ANALYSE
+# Analyse
 
 ## 1. Qui a créé cet indicateur ?  Quelles catégories sont utilisées le construire ? À quelles fins est-il utilisé ?
 
