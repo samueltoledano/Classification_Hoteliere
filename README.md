@@ -16,6 +16,7 @@
 #### a)Une société du chiffre
 #### b)Un indicateur qui a dû s'adapter aux exigences de nos sociétés (la réforme du classement)
 ## Conclusion
+## Bibliographie
 
 ## Introduction
 
@@ -128,6 +129,46 @@ Cette réforme est porteuse d’un signal fort auprès de la clientèle, mais da
 ## CONCLUSION
 
 Pour conclure, l’indicateur de la classification hôtelière en France est un exemple intéressant de la quantification dans nos sociétés car il illustre à la fois l’importance du rôle que le chiffre peut avoir dans un secteur marchand et les limites de la quantification lorsqu’il s’agit des aspects qualitatifs d’un service qui ne peuvent véritablement transparaitre à travers un nombre. En effet le processus de classification des hôtels n’est pas exempt de critiques. Alors qu’une grande majorité d’établissements font le choix de prendre part au système de classification, certains restent réfractaires. D’après les témoignages récoltés, personne ne s’accorde à dire que le nombre d’étoiles est le réel reflet de la qualité d’un hôtel. Il s’agit pour autant d’un système pratique et qui permet d’orienter les établissements vers un certain niveau de prestations. La concurrence entre le système de classification et les plateformes de notation en ligne semble s’effacer au profit d’une complémentarité des informations qui aide le consommateur à faire son choix final. De plus, l'existence d’autres labels permet aux hôtels qui ne se retrouveraient dans ce système de bénéficier d’une clientèle différente, proposant ainsi une offre touristique plus large (lexemple de l’hôtel de charme). Si une critique devait demeurer suite à notre enquête, ce serait l’exigence de respect des critères d’accessibilité et le développement durable qui jusqu’ici est relativement limitée. Pourrait-on remettre en question l’omniprésence des syndicats et groupes hôteliers lors du choix des critères de notation?  Il semblerait important d’inclure dans une prochaine réforme de la classification hôtelière des experts impartiaux dans le domaine de la transition énergétique et écologique.
+
+
+## Bibliographie : 
+
+[Administration Française, (2022) Comment sont classés les hôtels de tourisme, Service Public](https://www.service-public.fr/particuliers/vosdroits/F2050) 
+
+[Atout France, Etoiles, le classement des hôtels évolue!](https://www.atout-france.fr/actualites/etoiles-le-classement-des-hotels-evolue) 
+
+[Atout France, Les panonceaux de classement.](https://www.classement.atout-france.fr/les-panonceaux-de-classement)
+
+[Atout France, Les principes généraux.](https://www.classement.atout-france.fr/les-principes-generaux)
+
+Beauvisage, T., Beuscart, J. S., Cardon, V., Mellet, K., & Trespeuch, M. (2013). Notes et avis des consommateurs sur le web. Réseaux, (1), 131-161.
+
+Callon, M., & Muniesa, F. (2003). Les marchés économiques comme dispositifs collectifs de calcul. Réseaux, 21(122), 189-233.
+
+Cardon, V. (2015). La guerre des étoiles. La réputation hôtelière à l’épreuve du web contributif. Revue d’anthropologie des connaissances, 9(9-1).
+
+Desrosières, A. (2013). Gouverner par les nombres: L’argument statistique II. Presses des Mines via OpenEdition.
+
+[Direction générale des Entreprises, (2022), Principes communs au classement des hébergements touristiques marchands](https://www.entreprises.gouv.fr/fr/tourisme/conseils-strategie/principes-communs-au-classement-des-hebergements-touristiques-marchands)
+
+[Hotelstars Union, (2022) Criteria hotelstars union: excerpt of the catalog of criteria](https://www.hotelstars.eu/criteria/)
+
+[Institut national de la statistique et des études économique, (2022),  Parc et fréquentation des hôtels (2022), Données annuelles 2021](https://www.insee.fr/fr/statistiques/2015412#tableau-figure1_radio1)
+
+Karpik, L. (1996). Dispositifs de confiance et engagements crédibles. Sociologie du travail, 527-550.
+
+[Mark Watkins, (2022), Le classement hotelier peut-il surnager face à Internet?, Coachomnium](https://coachomnium.com/bonus/classement-hotelier/) 
+
+[Mélanie  Rostagnat, (2021), De 1 étoile au palace, savez-vous comment sont classés les hôtels de tourisme français?, Le Figaro](https://www.lefigaro.fr/voyages/hotels/de-1-etoile-au-palace-savez-vous-comment-sont-classes-les-hotels-de-tourisme-en-france-20211226) 
+
+[Ministère de l’économie, des finances et de la souveraineté industrielle et numérique, “Destination France”,  le vaste plan de reconquête du tourisme tricolore](https://www.entreprises.gouv.fr/fr/actualites/tourisme/developpement-et-competitivite-du-secteur/destination-france-vaste-plan-de-reconquete-du-tourisme-tricolore) , [page Atout France](https://www.atout-france.fr/actualites/etoiles-le-classement-des-hotels-evolue) 
+
+[République Française, (2022), Hébergements collectifs classés en France, Data Gouv.](https://www.data.gouv.fr/fr/datasets/hebergements-collectifs-classes-en-france/)
+
+République Francaise, (2009), LOI n° 2009-888 du 22 juillet 2009 de développement et de modernisation des services touristiques, LégiFrance
+LOI n° 2009-888 du 22 juillet 2009 de développement et de modernisation des services touristiques (1) - Légifrance (legifrance.gouv.fr) 
+
+Tixier, M. (2008). La contribution de l'hôtellerie haut de gamme à la renommée internationale de Courchevel. Humanisme et Entreprise, 290, 61-73. 
 
 
 
